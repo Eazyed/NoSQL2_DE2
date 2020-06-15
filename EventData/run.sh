@@ -1,0 +1,1 @@
+flume-ng agent --name target_agent --conf [Chemin vers la configuration flume dans HDFS]  --conf-file [Chemin vers la configuration de l’agent dans HDFS]/flume_agent.conf
