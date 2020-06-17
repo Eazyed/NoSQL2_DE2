@@ -9,4 +9,6 @@ id_equipement STRING COMMENT 'id métier de l’équipement à l’origine de l�
 infos_div  STRING COMMENT 'texte libre')
 COMMENT 'Table de réception des évènements'
 PARTITIONED BY(date STRING)
+ROW FORMAT DELIMITED
+FIELDS TERMINATED BY '\;'
 STORED AS ORC;

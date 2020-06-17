@@ -9,4 +9,7 @@ id_equipement STRING COMMENT 'id métier de l’équipement à l’origine de l’événeme
 infos_div  STRING COMMENT 'texte libre')
 COMMENT 'Table de réception des évènements'
 PARTITIONED BY(DateStamp STRING)
-STORED AS CSV;
+ROW FORMAT DELIMITED
+FIELDS TERMINATED BY '\;'
+STORED AS TEXTFILE
+LOCATION '/path/to/hdfs/'
