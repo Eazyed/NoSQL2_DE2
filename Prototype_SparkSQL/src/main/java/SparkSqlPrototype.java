@@ -30,9 +30,26 @@ public class SparkSqlPrototype {
 	    Dataset<Row> dfevent = spark.read()
 	        .format("csv")
 	        .option("header", "true")
+	        .option("sep", ";")
 	        .load("data/eventData.csv");
 	    
 	    dfevent.createOrReplaceTempView("eventData");
+	    
+	    Dataset<Row> dfref = spark.read()
+		        .format("csv")
+		        .option("header", "true")
+		        .option("sep", ";")
+		        .load("data/referentialData.csv");
+		    
+		dfref.createOrReplaceTempView("referentialData");
+		
+		Dataset <Row> joined = dfevent.join(dfref, dfref.col("id_compteur").equalTo(dfevent.col("id_equipement")));
+		dfref.createOrReplaceTempView("joined");
+
+		Dataset <Row> aggregateByCompteur = spark.sql("Select j.id_compteur, count(*) from joined as j group by j.id_compteur");
+		aggregateByCompteur.coalesce(1).write().csv("data/aggregateByCompteur");
+		System.out.print(joined.head(10));
+		
 	    
 	    
 	}
