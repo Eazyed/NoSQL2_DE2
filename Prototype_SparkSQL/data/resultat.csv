@@ -1,0 +1,1092 @@
+pdk,date_occur_evt_formatted,type_evt,nb_event,Commune,Departement,Region
+100,2020-06-17,EVT_C_13,12,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-17,EVT_K_12,2,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-17,EVT_N_13,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-17,EVT_N_11,2,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-17,EVT_C_10,9,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-17,EVT_C_12,10,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-17,EVT_C_11,8,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-17,EVT_K_10,2,La Talaudiere,Loire,Auvergne Rhone Alpes
+200,2020-06-17,EVT_C_10,8,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-17,EVT_C_11,7,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-17,EVT_N_12,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-17,EVT_C_12,7,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-17,EVT_C_13,8,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-17,EVT_K_10,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-17,EVT_N_11,1,Sorbiers,Loire,Auvergne Rhone Alpes
+300,2020-06-17,EVT_N_10,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-17,EVT_C_10,7,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-17,EVT_K_10,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-17,EVT_C_12,8,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-17,EVT_C_11,4,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-17,EVT_C_13,11,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-17,EVT_N_11,2,Vileurbanne,Rhone,Auvergne Rhone Alpes
+400,2020-06-17,EVT_N_12,1,Orgeval,Yvelines,Ile de France
+400,2020-06-17,EVT_C_10,11,Orgeval,Yvelines,Ile de France
+400,2020-06-17,EVT_C_12,9,Orgeval,Yvelines,Ile de France
+400,2020-06-17,EVT_K_12,1,Orgeval,Yvelines,Ile de France
+400,2020-06-17,EVT_N_13,2,Orgeval,Yvelines,Ile de France
+400,2020-06-17,EVT_K_11,1,Orgeval,Yvelines,Ile de France
+400,2020-06-17,EVT_K_10,1,Orgeval,Yvelines,Ile de France
+400,2020-06-17,EVT_C_13,6,Orgeval,Yvelines,Ile de France
+400,2020-06-17,EVT_C_11,10,Orgeval,Yvelines,Ile de France
+100,2020-06-16,EVT_C_10,7,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-16,EVT_C_11,9,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-16,EVT_N_12,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-16,EVT_K_13,2,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-16,EVT_N_10,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-16,EVT_N_11,2,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-16,EVT_C_12,11,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-16,EVT_C_13,9,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-16,EVT_K_10,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-16,EVT_K_12,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+200,2020-06-16,EVT_C_11,7,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-16,EVT_C_12,8,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-16,EVT_K_11,2,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-16,EVT_C_13,12,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-16,EVT_N_11,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-16,EVT_C_10,6,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-16,EVT_K_13,3,Sorbiers,Loire,Auvergne Rhone Alpes
+300,2020-06-16,EVT_N_11,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-16,EVT_C_11,17,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-16,EVT_C_10,11,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-16,EVT_C_12,15,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-16,EVT_C_13,10,Vileurbanne,Rhone,Auvergne Rhone Alpes
+400,2020-06-16,EVT_N_11,1,Orgeval,Yvelines,Ile de France
+400,2020-06-16,EVT_C_10,14,Orgeval,Yvelines,Ile de France
+400,2020-06-16,EVT_C_12,8,Orgeval,Yvelines,Ile de France
+400,2020-06-16,EVT_C_13,8,Orgeval,Yvelines,Ile de France
+400,2020-06-16,EVT_N_12,3,Orgeval,Yvelines,Ile de France
+400,2020-06-16,EVT_K_10,1,Orgeval,Yvelines,Ile de France
+400,2020-06-16,EVT_N_10,1,Orgeval,Yvelines,Ile de France
+400,2020-06-16,EVT_C_11,10,Orgeval,Yvelines,Ile de France
+100,2020-06-15,EVT_K_12,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-15,EVT_K_13,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-15,EVT_C_12,11,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-15,EVT_N_13,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-15,EVT_N_10,2,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-15,EVT_K_10,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-15,EVT_C_13,11,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-15,EVT_C_10,8,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-15,EVT_C_11,7,La Talaudiere,Loire,Auvergne Rhone Alpes
+200,2020-06-15,EVT_C_11,5,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-15,EVT_N_11,3,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-15,EVT_N_13,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-15,EVT_C_13,14,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-15,EVT_N_12,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-15,EVT_K_12,2,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-15,EVT_K_13,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-15,EVT_K_10,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-15,EVT_N_10,3,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-15,EVT_C_10,6,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-15,EVT_K_11,3,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-15,EVT_C_12,7,Sorbiers,Loire,Auvergne Rhone Alpes
+300,2020-06-15,EVT_C_13,5,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-15,EVT_N_11,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-15,EVT_N_10,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-15,EVT_C_10,12,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-15,EVT_N_13,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-15,EVT_N_12,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-15,EVT_K_12,2,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-15,EVT_C_12,12,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-15,EVT_K_10,4,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-15,EVT_C_11,8,Vileurbanne,Rhone,Auvergne Rhone Alpes
+400,2020-06-15,EVT_C_10,4,Orgeval,Yvelines,Ile de France
+400,2020-06-15,EVT_C_11,6,Orgeval,Yvelines,Ile de France
+400,2020-06-15,EVT_N_10,1,Orgeval,Yvelines,Ile de France
+400,2020-06-15,EVT_N_13,1,Orgeval,Yvelines,Ile de France
+400,2020-06-15,EVT_C_13,10,Orgeval,Yvelines,Ile de France
+400,2020-06-15,EVT_K_12,1,Orgeval,Yvelines,Ile de France
+400,2020-06-15,EVT_K_11,1,Orgeval,Yvelines,Ile de France
+400,2020-06-15,EVT_N_11,3,Orgeval,Yvelines,Ile de France
+400,2020-06-15,EVT_C_12,8,Orgeval,Yvelines,Ile de France
+100,2020-06-14,EVT_C_10,14,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-14,EVT_K_12,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-14,EVT_N_13,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-14,EVT_C_13,8,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-14,EVT_K_13,3,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-14,EVT_C_12,14,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-14,EVT_K_11,3,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-14,EVT_C_11,11,La Talaudiere,Loire,Auvergne Rhone Alpes
+200,2020-06-14,EVT_N_10,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-14,EVT_K_13,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-14,EVT_N_12,2,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-14,EVT_K_11,2,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-14,EVT_C_10,10,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-14,EVT_K_10,2,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-14,EVT_K_12,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-14,EVT_C_13,12,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-14,EVT_N_13,2,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-14,EVT_C_12,10,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-14,EVT_C_11,8,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-14,EVT_N_11,1,Sorbiers,Loire,Auvergne Rhone Alpes
+300,2020-06-14,EVT_C_13,11,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-14,EVT_C_12,9,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-14,EVT_N_12,2,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-14,EVT_C_11,6,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-14,EVT_K_13,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-14,EVT_C_10,9,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-14,EVT_K_11,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-14,EVT_K_10,4,Vileurbanne,Rhone,Auvergne Rhone Alpes
+400,2020-06-14,EVT_K_10,2,Orgeval,Yvelines,Ile de France
+400,2020-06-14,EVT_K_11,4,Orgeval,Yvelines,Ile de France
+400,2020-06-14,EVT_N_10,2,Orgeval,Yvelines,Ile de France
+400,2020-06-14,EVT_K_12,2,Orgeval,Yvelines,Ile de France
+400,2020-06-14,EVT_N_13,1,Orgeval,Yvelines,Ile de France
+400,2020-06-14,EVT_C_10,14,Orgeval,Yvelines,Ile de France
+400,2020-06-14,EVT_N_11,2,Orgeval,Yvelines,Ile de France
+400,2020-06-14,EVT_C_11,6,Orgeval,Yvelines,Ile de France
+400,2020-06-14,EVT_C_13,12,Orgeval,Yvelines,Ile de France
+400,2020-06-14,EVT_C_12,12,Orgeval,Yvelines,Ile de France
+100,2020-06-13,EVT_C_13,17,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-13,EVT_C_10,11,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-13,EVT_N_11,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-13,EVT_K_11,2,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-13,EVT_K_13,3,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-13,EVT_C_11,11,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-13,EVT_K_10,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-13,EVT_N_10,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-13,EVT_C_12,11,La Talaudiere,Loire,Auvergne Rhone Alpes
+200,2020-06-13,EVT_K_10,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-13,EVT_C_12,6,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-13,EVT_C_10,8,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-13,EVT_C_13,15,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-13,EVT_N_13,2,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-13,EVT_K_12,3,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-13,EVT_N_12,3,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-13,EVT_C_11,8,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-13,EVT_N_10,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-13,EVT_N_11,2,Sorbiers,Loire,Auvergne Rhone Alpes
+300,2020-06-13,EVT_C_11,9,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-13,EVT_C_13,5,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-13,EVT_N_10,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-13,EVT_K_12,2,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-13,EVT_N_11,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-13,EVT_C_10,5,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-13,EVT_K_13,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-13,EVT_C_12,6,Vileurbanne,Rhone,Auvergne Rhone Alpes
+400,2020-06-13,EVT_K_13,1,Orgeval,Yvelines,Ile de France
+400,2020-06-13,EVT_C_13,14,Orgeval,Yvelines,Ile de France
+400,2020-06-13,EVT_K_10,1,Orgeval,Yvelines,Ile de France
+400,2020-06-13,EVT_C_10,10,Orgeval,Yvelines,Ile de France
+400,2020-06-13,EVT_N_13,2,Orgeval,Yvelines,Ile de France
+400,2020-06-13,EVT_K_11,2,Orgeval,Yvelines,Ile de France
+400,2020-06-13,EVT_N_11,1,Orgeval,Yvelines,Ile de France
+400,2020-06-13,EVT_C_11,10,Orgeval,Yvelines,Ile de France
+400,2020-06-13,EVT_C_12,5,Orgeval,Yvelines,Ile de France
+100,2020-06-12,EVT_N_11,2,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-12,EVT_K_11,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-12,EVT_N_13,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-12,EVT_C_12,6,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-12,EVT_C_10,7,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-12,EVT_N_10,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-12,EVT_C_13,10,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-12,EVT_C_11,5,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-12,EVT_K_13,3,La Talaudiere,Loire,Auvergne Rhone Alpes
+200,2020-06-12,EVT_C_10,10,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-12,EVT_C_13,7,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-12,EVT_N_10,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-12,EVT_N_11,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-12,EVT_K_11,3,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-12,EVT_N_12,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-12,EVT_K_10,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-12,EVT_C_12,13,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-12,EVT_C_11,7,Sorbiers,Loire,Auvergne Rhone Alpes
+300,2020-06-12,EVT_C_12,9,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-12,EVT_C_11,6,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-12,EVT_N_11,2,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-12,EVT_K_13,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-12,EVT_C_10,9,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-12,EVT_C_13,10,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-12,EVT_N_13,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-12,EVT_K_10,3,Vileurbanne,Rhone,Auvergne Rhone Alpes
+400,2020-06-12,EVT_K_13,1,Orgeval,Yvelines,Ile de France
+400,2020-06-12,EVT_C_13,6,Orgeval,Yvelines,Ile de France
+400,2020-06-12,EVT_C_11,9,Orgeval,Yvelines,Ile de France
+400,2020-06-12,EVT_N_10,1,Orgeval,Yvelines,Ile de France
+400,2020-06-12,EVT_N_11,1,Orgeval,Yvelines,Ile de France
+400,2020-06-12,EVT_C_10,7,Orgeval,Yvelines,Ile de France
+400,2020-06-12,EVT_K_12,2,Orgeval,Yvelines,Ile de France
+400,2020-06-12,EVT_K_10,1,Orgeval,Yvelines,Ile de France
+400,2020-06-12,EVT_N_13,2,Orgeval,Yvelines,Ile de France
+400,2020-06-12,EVT_C_12,10,Orgeval,Yvelines,Ile de France
+100,2020-06-11,EVT_C_10,6,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-11,EVT_K_10,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-11,EVT_C_11,10,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-11,EVT_N_11,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-11,EVT_C_13,8,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-11,EVT_N_10,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-11,EVT_K_11,2,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-11,EVT_K_12,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-11,EVT_N_13,2,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-11,EVT_C_12,8,La Talaudiere,Loire,Auvergne Rhone Alpes
+200,2020-06-11,EVT_N_10,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-11,EVT_C_13,8,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-11,EVT_N_13,2,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-11,EVT_C_10,9,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-11,EVT_K_11,2,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-11,EVT_C_11,11,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-11,EVT_N_12,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-11,EVT_C_12,9,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-11,EVT_K_10,1,Sorbiers,Loire,Auvergne Rhone Alpes
+300,2020-06-11,EVT_C_11,11,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-11,EVT_C_12,9,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-11,EVT_C_10,14,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-11,EVT_N_12,3,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-11,EVT_K_13,2,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-11,EVT_C_13,8,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-11,EVT_K_10,2,Vileurbanne,Rhone,Auvergne Rhone Alpes
+400,2020-06-11,EVT_C_11,10,Orgeval,Yvelines,Ile de France
+400,2020-06-11,EVT_C_13,6,Orgeval,Yvelines,Ile de France
+400,2020-06-11,EVT_K_10,1,Orgeval,Yvelines,Ile de France
+400,2020-06-11,EVT_N_10,1,Orgeval,Yvelines,Ile de France
+400,2020-06-11,EVT_N_12,1,Orgeval,Yvelines,Ile de France
+400,2020-06-11,EVT_C_12,7,Orgeval,Yvelines,Ile de France
+400,2020-06-11,EVT_K_12,1,Orgeval,Yvelines,Ile de France
+400,2020-06-11,EVT_C_10,10,Orgeval,Yvelines,Ile de France
+100,2020-06-10,EVT_N_11,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-10,EVT_K_13,2,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-10,EVT_N_10,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-10,EVT_C_13,6,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-10,EVT_C_10,5,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-10,EVT_C_11,9,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-10,EVT_C_12,7,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-10,EVT_K_10,2,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-10,EVT_N_13,2,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-10,EVT_K_12,2,La Talaudiere,Loire,Auvergne Rhone Alpes
+200,2020-06-10,EVT_C_11,9,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-10,EVT_C_10,6,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-10,EVT_N_13,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-10,EVT_K_12,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-10,EVT_N_10,2,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-10,EVT_N_11,2,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-10,EVT_K_11,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-10,EVT_C_13,5,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-10,EVT_C_12,13,Sorbiers,Loire,Auvergne Rhone Alpes
+300,2020-06-10,EVT_C_12,11,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-10,EVT_C_10,12,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-10,EVT_K_13,2,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-10,EVT_C_13,6,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-10,EVT_N_12,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-10,EVT_C_11,8,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-10,EVT_N_13,3,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-10,EVT_N_11,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+400,2020-06-10,EVT_K_11,2,Orgeval,Yvelines,Ile de France
+400,2020-06-10,EVT_N_11,1,Orgeval,Yvelines,Ile de France
+400,2020-06-10,EVT_C_12,8,Orgeval,Yvelines,Ile de France
+400,2020-06-10,EVT_C_13,6,Orgeval,Yvelines,Ile de France
+400,2020-06-10,EVT_C_11,9,Orgeval,Yvelines,Ile de France
+400,2020-06-10,EVT_N_12,1,Orgeval,Yvelines,Ile de France
+400,2020-06-10,EVT_C_10,13,Orgeval,Yvelines,Ile de France
+400,2020-06-10,EVT_N_10,2,Orgeval,Yvelines,Ile de France
+100,2020-06-09,EVT_C_12,13,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-09,EVT_K_13,3,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-09,EVT_N_13,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-09,EVT_C_10,17,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-09,EVT_N_12,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-09,EVT_C_11,6,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-09,EVT_C_13,13,La Talaudiere,Loire,Auvergne Rhone Alpes
+200,2020-06-09,EVT_K_12,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-09,EVT_K_10,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-09,EVT_C_11,14,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-09,EVT_K_11,2,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-09,EVT_N_10,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-09,EVT_C_13,10,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-09,EVT_C_10,6,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-09,EVT_C_12,9,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-09,EVT_N_11,2,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-09,EVT_K_13,2,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-09,EVT_N_13,1,Sorbiers,Loire,Auvergne Rhone Alpes
+300,2020-06-09,EVT_C_11,6,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-09,EVT_C_13,13,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-09,EVT_N_10,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-09,EVT_K_11,2,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-09,EVT_C_12,9,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-09,EVT_K_13,4,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-09,EVT_K_10,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-09,EVT_N_13,4,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-09,EVT_C_10,9,Vileurbanne,Rhone,Auvergne Rhone Alpes
+400,2020-06-09,EVT_C_11,8,Orgeval,Yvelines,Ile de France
+400,2020-06-09,EVT_C_12,10,Orgeval,Yvelines,Ile de France
+400,2020-06-09,EVT_K_12,2,Orgeval,Yvelines,Ile de France
+400,2020-06-09,EVT_C_13,9,Orgeval,Yvelines,Ile de France
+400,2020-06-09,EVT_K_11,1,Orgeval,Yvelines,Ile de France
+400,2020-06-09,EVT_K_10,1,Orgeval,Yvelines,Ile de France
+400,2020-06-09,EVT_K_13,1,Orgeval,Yvelines,Ile de France
+400,2020-06-09,EVT_C_10,10,Orgeval,Yvelines,Ile de France
+400,2020-06-09,EVT_N_11,1,Orgeval,Yvelines,Ile de France
+400,2020-06-09,EVT_N_10,1,Orgeval,Yvelines,Ile de France
+100,2020-06-08,EVT_C_10,3,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-08,EVT_C_12,12,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-08,EVT_C_13,10,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-08,EVT_C_11,8,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-08,EVT_N_11,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-08,EVT_K_10,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-08,EVT_N_13,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-08,EVT_N_12,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+200,2020-06-08,EVT_N_11,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-08,EVT_N_12,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-08,EVT_C_10,10,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-08,EVT_K_13,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-08,EVT_C_13,6,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-08,EVT_N_13,2,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-08,EVT_C_12,12,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-08,EVT_K_11,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-08,EVT_K_12,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-08,EVT_N_10,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-08,EVT_C_11,9,Sorbiers,Loire,Auvergne Rhone Alpes
+300,2020-06-08,EVT_C_13,3,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-08,EVT_N_11,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-08,EVT_K_12,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-08,EVT_K_11,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-08,EVT_K_13,3,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-08,EVT_K_10,2,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-08,EVT_C_11,7,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-08,EVT_C_10,9,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-08,EVT_C_12,8,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-08,EVT_N_13,2,Vileurbanne,Rhone,Auvergne Rhone Alpes
+400,2020-06-08,EVT_K_11,1,Orgeval,Yvelines,Ile de France
+400,2020-06-08,EVT_C_13,5,Orgeval,Yvelines,Ile de France
+400,2020-06-08,EVT_C_10,10,Orgeval,Yvelines,Ile de France
+400,2020-06-08,EVT_N_12,2,Orgeval,Yvelines,Ile de France
+400,2020-06-08,EVT_N_13,1,Orgeval,Yvelines,Ile de France
+400,2020-06-08,EVT_K_12,1,Orgeval,Yvelines,Ile de France
+400,2020-06-08,EVT_C_12,12,Orgeval,Yvelines,Ile de France
+400,2020-06-08,EVT_N_11,1,Orgeval,Yvelines,Ile de France
+400,2020-06-08,EVT_K_10,1,Orgeval,Yvelines,Ile de France
+400,2020-06-08,EVT_C_11,11,Orgeval,Yvelines,Ile de France
+100,2020-06-07,EVT_C_11,10,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-07,EVT_C_10,6,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-07,EVT_C_13,7,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-07,EVT_K_11,2,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-07,EVT_N_11,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-07,EVT_K_13,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-07,EVT_K_10,4,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-07,EVT_C_12,11,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-07,EVT_K_12,3,La Talaudiere,Loire,Auvergne Rhone Alpes
+200,2020-06-07,EVT_N_12,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-07,EVT_K_13,2,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-07,EVT_C_11,5,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-07,EVT_K_12,2,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-07,EVT_C_10,6,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-07,EVT_C_12,5,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-07,EVT_N_13,2,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-07,EVT_N_11,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-07,EVT_C_13,10,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-07,EVT_K_10,2,Sorbiers,Loire,Auvergne Rhone Alpes
+300,2020-06-07,EVT_C_10,11,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-07,EVT_C_11,5,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-07,EVT_K_10,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-07,EVT_C_13,10,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-07,EVT_K_12,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-07,EVT_K_11,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-07,EVT_K_13,3,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-07,EVT_C_12,6,Vileurbanne,Rhone,Auvergne Rhone Alpes
+400,2020-06-07,EVT_C_13,6,Orgeval,Yvelines,Ile de France
+400,2020-06-07,EVT_C_10,7,Orgeval,Yvelines,Ile de France
+400,2020-06-07,EVT_C_12,5,Orgeval,Yvelines,Ile de France
+400,2020-06-07,EVT_N_10,2,Orgeval,Yvelines,Ile de France
+400,2020-06-07,EVT_K_12,1,Orgeval,Yvelines,Ile de France
+400,2020-06-07,EVT_K_11,1,Orgeval,Yvelines,Ile de France
+400,2020-06-07,EVT_C_11,6,Orgeval,Yvelines,Ile de France
+400,2020-06-07,EVT_K_13,1,Orgeval,Yvelines,Ile de France
+400,2020-06-07,EVT_N_13,2,Orgeval,Yvelines,Ile de France
+100,2020-06-06,EVT_C_13,11,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-06,EVT_C_11,8,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-06,EVT_C_12,10,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-06,EVT_N_13,2,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-06,EVT_K_11,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-06,EVT_N_12,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-06,EVT_C_10,8,La Talaudiere,Loire,Auvergne Rhone Alpes
+200,2020-06-06,EVT_K_13,2,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-06,EVT_C_12,9,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-06,EVT_N_10,3,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-06,EVT_K_10,3,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-06,EVT_C_10,5,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-06,EVT_C_13,4,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-06,EVT_C_11,9,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-06,EVT_N_13,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-06,EVT_N_11,1,Sorbiers,Loire,Auvergne Rhone Alpes
+300,2020-06-06,EVT_N_11,2,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-06,EVT_N_10,3,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-06,EVT_N_13,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-06,EVT_C_13,10,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-06,EVT_C_12,9,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-06,EVT_C_10,13,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-06,EVT_C_11,6,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-06,EVT_K_11,2,Vileurbanne,Rhone,Auvergne Rhone Alpes
+400,2020-06-06,EVT_K_13,1,Orgeval,Yvelines,Ile de France
+400,2020-06-06,EVT_N_13,1,Orgeval,Yvelines,Ile de France
+400,2020-06-06,EVT_C_13,11,Orgeval,Yvelines,Ile de France
+400,2020-06-06,EVT_K_10,1,Orgeval,Yvelines,Ile de France
+400,2020-06-06,EVT_C_11,9,Orgeval,Yvelines,Ile de France
+400,2020-06-06,EVT_C_12,7,Orgeval,Yvelines,Ile de France
+400,2020-06-06,EVT_C_10,6,Orgeval,Yvelines,Ile de France
+100,2020-06-05,EVT_C_11,7,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-05,EVT_C_13,9,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-05,EVT_C_12,10,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-05,EVT_N_13,2,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-05,EVT_K_13,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-05,EVT_N_11,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-05,EVT_C_10,10,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-05,EVT_K_11,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+200,2020-06-05,EVT_K_13,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-05,EVT_K_11,2,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-05,EVT_C_12,12,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-05,EVT_C_10,15,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-05,EVT_K_10,2,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-05,EVT_N_13,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-05,EVT_N_12,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-05,EVT_C_11,6,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-05,EVT_C_13,6,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-05,EVT_K_12,1,Sorbiers,Loire,Auvergne Rhone Alpes
+300,2020-06-05,EVT_K_10,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-05,EVT_C_12,8,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-05,EVT_C_11,12,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-05,EVT_C_10,11,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-05,EVT_C_13,6,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-05,EVT_N_12,2,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-05,EVT_N_13,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-05,EVT_N_10,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-05,EVT_N_11,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+400,2020-06-05,EVT_K_13,3,Orgeval,Yvelines,Ile de France
+400,2020-06-05,EVT_C_13,6,Orgeval,Yvelines,Ile de France
+400,2020-06-05,EVT_C_12,8,Orgeval,Yvelines,Ile de France
+400,2020-06-05,EVT_N_13,1,Orgeval,Yvelines,Ile de France
+400,2020-06-05,EVT_N_12,1,Orgeval,Yvelines,Ile de France
+400,2020-06-05,EVT_N_11,3,Orgeval,Yvelines,Ile de France
+400,2020-06-05,EVT_K_10,2,Orgeval,Yvelines,Ile de France
+400,2020-06-05,EVT_N_10,1,Orgeval,Yvelines,Ile de France
+400,2020-06-05,EVT_C_10,7,Orgeval,Yvelines,Ile de France
+400,2020-06-05,EVT_K_12,1,Orgeval,Yvelines,Ile de France
+400,2020-06-05,EVT_C_11,8,Orgeval,Yvelines,Ile de France
+100,2020-06-04,EVT_K_13,2,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-04,EVT_N_12,2,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-04,EVT_N_10,2,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-04,EVT_C_11,13,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-04,EVT_K_10,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-04,EVT_C_13,6,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-04,EVT_C_10,8,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-04,EVT_C_12,8,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-04,EVT_N_13,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+200,2020-06-04,EVT_K_13,2,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-04,EVT_K_11,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-04,EVT_N_11,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-04,EVT_K_12,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-04,EVT_C_11,15,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-04,EVT_C_12,6,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-04,EVT_K_10,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-04,EVT_C_10,4,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-04,EVT_N_10,4,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-04,EVT_C_13,13,Sorbiers,Loire,Auvergne Rhone Alpes
+300,2020-06-04,EVT_K_11,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-04,EVT_N_11,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-04,EVT_C_10,5,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-04,EVT_N_13,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-04,EVT_C_12,8,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-04,EVT_C_13,8,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-04,EVT_N_10,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-04,EVT_C_11,7,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-04,EVT_K_13,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-04,EVT_N_12,4,Vileurbanne,Rhone,Auvergne Rhone Alpes
+400,2020-06-04,EVT_C_13,16,Orgeval,Yvelines,Ile de France
+400,2020-06-04,EVT_N_13,1,Orgeval,Yvelines,Ile de France
+400,2020-06-04,EVT_K_11,1,Orgeval,Yvelines,Ile de France
+400,2020-06-04,EVT_N_10,2,Orgeval,Yvelines,Ile de France
+400,2020-06-04,EVT_K_10,1,Orgeval,Yvelines,Ile de France
+400,2020-06-04,EVT_C_10,8,Orgeval,Yvelines,Ile de France
+400,2020-06-04,EVT_C_11,7,Orgeval,Yvelines,Ile de France
+400,2020-06-04,EVT_K_13,1,Orgeval,Yvelines,Ile de France
+400,2020-06-04,EVT_C_12,4,Orgeval,Yvelines,Ile de France
+100,2020-06-03,EVT_N_11,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-03,EVT_K_10,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-03,EVT_C_12,9,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-03,EVT_C_10,10,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-03,EVT_N_10,2,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-03,EVT_C_13,9,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-03,EVT_C_11,11,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-03,EVT_N_12,2,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-03,EVT_K_11,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+200,2020-06-03,EVT_C_12,11,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-03,EVT_N_10,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-03,EVT_K_11,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-03,EVT_C_10,7,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-03,EVT_N_13,2,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-03,EVT_K_13,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-03,EVT_K_12,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-03,EVT_K_10,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-03,EVT_C_11,9,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-03,EVT_N_12,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-03,EVT_C_13,8,Sorbiers,Loire,Auvergne Rhone Alpes
+300,2020-06-03,EVT_C_12,11,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-03,EVT_K_10,4,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-03,EVT_C_10,5,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-03,EVT_K_12,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-03,EVT_K_11,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-03,EVT_N_12,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-03,EVT_N_13,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-03,EVT_N_11,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-03,EVT_C_11,10,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-03,EVT_N_10,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-03,EVT_C_13,13,Vileurbanne,Rhone,Auvergne Rhone Alpes
+400,2020-06-03,EVT_K_11,1,Orgeval,Yvelines,Ile de France
+400,2020-06-03,EVT_C_10,12,Orgeval,Yvelines,Ile de France
+400,2020-06-03,EVT_C_12,8,Orgeval,Yvelines,Ile de France
+400,2020-06-03,EVT_N_10,1,Orgeval,Yvelines,Ile de France
+400,2020-06-03,EVT_N_13,3,Orgeval,Yvelines,Ile de France
+400,2020-06-03,EVT_C_11,7,Orgeval,Yvelines,Ile de France
+400,2020-06-03,EVT_K_10,2,Orgeval,Yvelines,Ile de France
+400,2020-06-03,EVT_N_11,2,Orgeval,Yvelines,Ile de France
+400,2020-06-03,EVT_C_13,13,Orgeval,Yvelines,Ile de France
+400,2020-06-03,EVT_K_13,2,Orgeval,Yvelines,Ile de France
+100,2020-06-02,EVT_C_11,7,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-02,EVT_K_11,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-02,EVT_N_10,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-02,EVT_C_13,5,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-02,EVT_C_12,13,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-02,EVT_K_13,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-02,EVT_C_10,10,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-02,EVT_N_12,3,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-02,EVT_N_13,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+200,2020-06-02,EVT_K_11,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-02,EVT_C_10,15,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-02,EVT_C_12,9,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-02,EVT_K_10,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-02,EVT_C_13,7,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-02,EVT_C_11,5,Sorbiers,Loire,Auvergne Rhone Alpes
+300,2020-06-02,EVT_K_12,4,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-02,EVT_K_11,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-02,EVT_C_10,5,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-02,EVT_C_12,7,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-02,EVT_C_13,14,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-02,EVT_N_10,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-02,EVT_C_11,9,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-02,EVT_N_11,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-02,EVT_K_13,2,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-02,EVT_N_13,3,Vileurbanne,Rhone,Auvergne Rhone Alpes
+400,2020-06-02,EVT_N_11,3,Orgeval,Yvelines,Ile de France
+400,2020-06-02,EVT_K_11,2,Orgeval,Yvelines,Ile de France
+400,2020-06-02,EVT_C_13,12,Orgeval,Yvelines,Ile de France
+400,2020-06-02,EVT_C_12,7,Orgeval,Yvelines,Ile de France
+400,2020-06-02,EVT_K_12,1,Orgeval,Yvelines,Ile de France
+400,2020-06-02,EVT_K_10,1,Orgeval,Yvelines,Ile de France
+400,2020-06-02,EVT_C_11,12,Orgeval,Yvelines,Ile de France
+400,2020-06-02,EVT_C_10,10,Orgeval,Yvelines,Ile de France
+400,2020-06-02,EVT_N_13,2,Orgeval,Yvelines,Ile de France
+100,2020-06-01,EVT_N_12,3,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-01,EVT_C_12,13,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-01,EVT_C_13,5,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-01,EVT_C_10,9,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-06-01,EVT_C_11,6,La Talaudiere,Loire,Auvergne Rhone Alpes
+200,2020-06-01,EVT_C_10,11,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-01,EVT_N_12,3,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-01,EVT_C_11,5,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-01,EVT_N_11,2,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-01,EVT_C_12,5,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-06-01,EVT_C_13,8,Sorbiers,Loire,Auvergne Rhone Alpes
+300,2020-06-01,EVT_K_10,2,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-01,EVT_C_11,12,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-01,EVT_K_11,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-01,EVT_C_12,7,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-01,EVT_C_13,14,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-01,EVT_C_10,9,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-01,EVT_N_11,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-01,EVT_N_12,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-01,EVT_N_10,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-06-01,EVT_K_13,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+400,2020-06-01,EVT_K_11,1,Orgeval,Yvelines,Ile de France
+400,2020-06-01,EVT_C_11,8,Orgeval,Yvelines,Ile de France
+400,2020-06-01,EVT_N_13,2,Orgeval,Yvelines,Ile de France
+400,2020-06-01,EVT_C_13,12,Orgeval,Yvelines,Ile de France
+400,2020-06-01,EVT_K_10,1,Orgeval,Yvelines,Ile de France
+400,2020-06-01,EVT_C_12,9,Orgeval,Yvelines,Ile de France
+400,2020-06-01,EVT_N_11,2,Orgeval,Yvelines,Ile de France
+400,2020-06-01,EVT_C_10,5,Orgeval,Yvelines,Ile de France
+100,2020-05-31,EVT_K_10,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-31,EVT_K_13,2,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-31,EVT_K_11,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-31,EVT_C_13,9,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-31,EVT_N_13,2,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-31,EVT_C_12,8,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-31,EVT_C_10,8,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-31,EVT_C_11,17,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-31,EVT_K_12,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-31,EVT_N_11,2,La Talaudiere,Loire,Auvergne Rhone Alpes
+200,2020-05-31,EVT_K_11,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-31,EVT_C_13,8,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-31,EVT_C_11,10,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-31,EVT_K_12,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-31,EVT_K_10,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-31,EVT_N_10,2,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-31,EVT_N_11,2,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-31,EVT_N_12,3,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-31,EVT_C_10,8,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-31,EVT_C_12,8,Sorbiers,Loire,Auvergne Rhone Alpes
+300,2020-05-31,EVT_C_11,12,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-31,EVT_N_12,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-31,EVT_C_13,7,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-31,EVT_K_11,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-31,EVT_K_13,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-31,EVT_N_13,2,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-31,EVT_N_10,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-31,EVT_C_10,10,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-31,EVT_K_12,2,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-31,EVT_C_12,6,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-31,EVT_K_10,2,Vileurbanne,Rhone,Auvergne Rhone Alpes
+400,2020-05-31,EVT_C_12,9,Orgeval,Yvelines,Ile de France
+400,2020-05-31,EVT_C_11,9,Orgeval,Yvelines,Ile de France
+400,2020-05-31,EVT_K_11,1,Orgeval,Yvelines,Ile de France
+400,2020-05-31,EVT_N_13,1,Orgeval,Yvelines,Ile de France
+400,2020-05-31,EVT_K_12,1,Orgeval,Yvelines,Ile de France
+400,2020-05-31,EVT_C_13,9,Orgeval,Yvelines,Ile de France
+400,2020-05-31,EVT_C_10,11,Orgeval,Yvelines,Ile de France
+400,2020-05-31,EVT_N_11,3,Orgeval,Yvelines,Ile de France
+100,2020-05-30,EVT_N_13,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-30,EVT_C_10,13,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-30,EVT_C_13,8,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-30,EVT_C_12,8,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-30,EVT_K_12,2,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-30,EVT_N_10,2,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-30,EVT_C_11,9,La Talaudiere,Loire,Auvergne Rhone Alpes
+200,2020-05-30,EVT_N_10,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-30,EVT_N_13,2,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-30,EVT_C_11,13,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-30,EVT_C_10,10,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-30,EVT_N_12,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-30,EVT_C_13,5,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-30,EVT_K_13,2,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-30,EVT_C_12,12,Sorbiers,Loire,Auvergne Rhone Alpes
+300,2020-05-30,EVT_C_13,8,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-30,EVT_N_11,3,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-30,EVT_C_11,4,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-30,EVT_C_10,8,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-30,EVT_K_13,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-30,EVT_C_12,7,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-30,EVT_N_13,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+400,2020-05-30,EVT_N_12,1,Orgeval,Yvelines,Ile de France
+400,2020-05-30,EVT_C_11,7,Orgeval,Yvelines,Ile de France
+400,2020-05-30,EVT_N_11,1,Orgeval,Yvelines,Ile de France
+400,2020-05-30,EVT_C_13,5,Orgeval,Yvelines,Ile de France
+400,2020-05-30,EVT_K_10,1,Orgeval,Yvelines,Ile de France
+400,2020-05-30,EVT_C_12,10,Orgeval,Yvelines,Ile de France
+400,2020-05-30,EVT_C_10,10,Orgeval,Yvelines,Ile de France
+400,2020-05-30,EVT_N_13,2,Orgeval,Yvelines,Ile de France
+400,2020-05-30,EVT_N_10,1,Orgeval,Yvelines,Ile de France
+100,2020-05-29,EVT_K_10,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-29,EVT_C_13,10,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-29,EVT_N_11,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-29,EVT_K_11,2,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-29,EVT_C_11,6,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-29,EVT_C_10,8,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-29,EVT_C_12,14,La Talaudiere,Loire,Auvergne Rhone Alpes
+200,2020-05-29,EVT_K_11,2,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-29,EVT_C_11,4,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-29,EVT_K_12,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-29,EVT_C_12,7,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-29,EVT_K_10,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-29,EVT_N_11,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-29,EVT_N_12,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-29,EVT_N_13,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-29,EVT_K_13,4,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-29,EVT_N_10,2,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-29,EVT_C_10,14,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-29,EVT_C_13,6,Sorbiers,Loire,Auvergne Rhone Alpes
+300,2020-05-29,EVT_N_10,3,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-29,EVT_C_11,4,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-29,EVT_C_12,7,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-29,EVT_K_10,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-29,EVT_N_13,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-29,EVT_K_13,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-29,EVT_N_12,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-29,EVT_C_13,15,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-29,EVT_C_10,9,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-29,EVT_K_12,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-29,EVT_K_11,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+400,2020-05-29,EVT_K_12,1,Orgeval,Yvelines,Ile de France
+400,2020-05-29,EVT_K_13,2,Orgeval,Yvelines,Ile de France
+400,2020-05-29,EVT_C_11,4,Orgeval,Yvelines,Ile de France
+400,2020-05-29,EVT_C_13,11,Orgeval,Yvelines,Ile de France
+400,2020-05-29,EVT_N_12,2,Orgeval,Yvelines,Ile de France
+400,2020-05-29,EVT_C_12,9,Orgeval,Yvelines,Ile de France
+400,2020-05-29,EVT_C_10,7,Orgeval,Yvelines,Ile de France
+100,2020-05-28,EVT_K_10,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-28,EVT_N_13,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-28,EVT_N_12,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-28,EVT_K_12,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-28,EVT_C_10,5,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-28,EVT_C_12,11,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-28,EVT_C_13,3,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-28,EVT_C_11,10,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-28,EVT_K_13,2,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-28,EVT_N_11,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+200,2020-05-28,EVT_N_12,2,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-28,EVT_C_12,7,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-28,EVT_C_11,9,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-28,EVT_C_10,10,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-28,EVT_C_13,5,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-28,EVT_K_13,3,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-28,EVT_N_13,4,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-28,EVT_K_11,1,Sorbiers,Loire,Auvergne Rhone Alpes
+300,2020-05-28,EVT_K_10,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-28,EVT_N_13,2,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-28,EVT_N_12,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-28,EVT_K_13,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-28,EVT_N_10,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-28,EVT_C_10,8,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-28,EVT_N_11,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-28,EVT_C_11,10,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-28,EVT_C_12,4,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-28,EVT_C_13,12,Vileurbanne,Rhone,Auvergne Rhone Alpes
+400,2020-05-28,EVT_C_11,5,Orgeval,Yvelines,Ile de France
+400,2020-05-28,EVT_C_10,13,Orgeval,Yvelines,Ile de France
+400,2020-05-28,EVT_C_12,12,Orgeval,Yvelines,Ile de France
+400,2020-05-28,EVT_N_13,2,Orgeval,Yvelines,Ile de France
+400,2020-05-28,EVT_C_13,16,Orgeval,Yvelines,Ile de France
+400,2020-05-28,EVT_K_12,1,Orgeval,Yvelines,Ile de France
+100,2020-05-27,EVT_C_12,7,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-27,EVT_K_10,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-27,EVT_C_11,9,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-27,EVT_C_13,8,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-27,EVT_N_10,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-27,EVT_N_13,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-27,EVT_C_10,5,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-27,EVT_K_12,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+200,2020-05-27,EVT_K_12,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-27,EVT_N_11,2,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-27,EVT_C_11,11,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-27,EVT_N_13,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-27,EVT_C_13,12,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-27,EVT_K_11,2,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-27,EVT_K_10,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-27,EVT_C_12,6,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-27,EVT_N_12,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-27,EVT_C_10,7,Sorbiers,Loire,Auvergne Rhone Alpes
+300,2020-05-27,EVT_C_10,11,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-27,EVT_K_13,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-27,EVT_N_12,2,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-27,EVT_K_12,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-27,EVT_C_13,6,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-27,EVT_N_10,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-27,EVT_C_11,7,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-27,EVT_C_12,17,Vileurbanne,Rhone,Auvergne Rhone Alpes
+400,2020-05-27,EVT_C_12,4,Orgeval,Yvelines,Ile de France
+400,2020-05-27,EVT_C_13,12,Orgeval,Yvelines,Ile de France
+400,2020-05-27,EVT_C_10,12,Orgeval,Yvelines,Ile de France
+400,2020-05-27,EVT_C_11,7,Orgeval,Yvelines,Ile de France
+400,2020-05-27,EVT_N_10,2,Orgeval,Yvelines,Ile de France
+400,2020-05-27,EVT_N_13,2,Orgeval,Yvelines,Ile de France
+400,2020-05-27,EVT_K_12,3,Orgeval,Yvelines,Ile de France
+400,2020-05-27,EVT_N_11,2,Orgeval,Yvelines,Ile de France
+400,2020-05-27,EVT_N_12,1,Orgeval,Yvelines,Ile de France
+100,2020-05-26,EVT_C_11,12,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-26,EVT_C_13,9,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-26,EVT_K_12,3,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-26,EVT_N_13,2,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-26,EVT_C_10,7,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-26,EVT_N_10,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-26,EVT_K_10,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-26,EVT_N_11,2,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-26,EVT_C_12,7,La Talaudiere,Loire,Auvergne Rhone Alpes
+200,2020-05-26,EVT_C_11,7,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-26,EVT_N_11,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-26,EVT_C_10,10,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-26,EVT_C_13,13,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-26,EVT_K_12,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-26,EVT_C_12,3,Sorbiers,Loire,Auvergne Rhone Alpes
+300,2020-05-26,EVT_K_13,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-26,EVT_C_10,5,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-26,EVT_N_11,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-26,EVT_C_13,10,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-26,EVT_C_12,6,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-26,EVT_K_10,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-26,EVT_K_11,2,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-26,EVT_C_11,7,Vileurbanne,Rhone,Auvergne Rhone Alpes
+400,2020-05-26,EVT_K_13,1,Orgeval,Yvelines,Ile de France
+400,2020-05-26,EVT_C_12,10,Orgeval,Yvelines,Ile de France
+400,2020-05-26,EVT_N_10,1,Orgeval,Yvelines,Ile de France
+400,2020-05-26,EVT_N_11,1,Orgeval,Yvelines,Ile de France
+400,2020-05-26,EVT_N_12,1,Orgeval,Yvelines,Ile de France
+400,2020-05-26,EVT_K_10,1,Orgeval,Yvelines,Ile de France
+400,2020-05-26,EVT_C_10,10,Orgeval,Yvelines,Ile de France
+400,2020-05-26,EVT_C_11,6,Orgeval,Yvelines,Ile de France
+400,2020-05-26,EVT_C_13,11,Orgeval,Yvelines,Ile de France
+100,2020-05-25,EVT_C_13,7,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-25,EVT_N_11,2,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-25,EVT_K_11,2,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-25,EVT_C_10,8,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-25,EVT_K_13,2,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-25,EVT_C_12,6,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-25,EVT_C_11,6,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-25,EVT_K_12,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-25,EVT_N_12,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+200,2020-05-25,EVT_C_10,7,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-25,EVT_C_13,7,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-25,EVT_N_12,2,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-25,EVT_C_12,9,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-25,EVT_K_12,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-25,EVT_C_11,7,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-25,EVT_N_11,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-25,EVT_K_11,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-25,EVT_K_10,2,Sorbiers,Loire,Auvergne Rhone Alpes
+300,2020-05-25,EVT_C_13,5,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-25,EVT_C_12,7,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-25,EVT_C_11,7,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-25,EVT_K_10,2,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-25,EVT_C_10,5,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-25,EVT_N_11,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-25,EVT_N_10,2,Vileurbanne,Rhone,Auvergne Rhone Alpes
+400,2020-05-25,EVT_N_10,1,Orgeval,Yvelines,Ile de France
+400,2020-05-25,EVT_C_13,7,Orgeval,Yvelines,Ile de France
+400,2020-05-25,EVT_K_11,1,Orgeval,Yvelines,Ile de France
+400,2020-05-25,EVT_C_11,10,Orgeval,Yvelines,Ile de France
+400,2020-05-25,EVT_C_10,8,Orgeval,Yvelines,Ile de France
+400,2020-05-25,EVT_K_13,2,Orgeval,Yvelines,Ile de France
+400,2020-05-25,EVT_C_12,10,Orgeval,Yvelines,Ile de France
+400,2020-05-25,EVT_K_12,2,Orgeval,Yvelines,Ile de France
+100,2020-05-24,EVT_C_13,9,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-24,EVT_C_10,14,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-24,EVT_N_12,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-24,EVT_N_13,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-24,EVT_K_13,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-24,EVT_K_11,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-24,EVT_C_12,13,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-24,EVT_C_11,11,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-24,EVT_K_12,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+200,2020-05-24,EVT_K_11,2,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-24,EVT_N_10,3,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-24,EVT_C_13,8,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-24,EVT_C_11,12,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-24,EVT_N_11,2,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-24,EVT_N_13,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-24,EVT_K_12,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-24,EVT_C_10,8,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-24,EVT_C_12,10,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-24,EVT_K_13,1,Sorbiers,Loire,Auvergne Rhone Alpes
+300,2020-05-24,EVT_C_13,6,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-24,EVT_K_11,3,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-24,EVT_C_10,4,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-24,EVT_K_12,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-24,EVT_C_12,8,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-24,EVT_N_11,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-24,EVT_N_10,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-24,EVT_C_11,11,Vileurbanne,Rhone,Auvergne Rhone Alpes
+400,2020-05-24,EVT_K_13,1,Orgeval,Yvelines,Ile de France
+400,2020-05-24,EVT_N_10,2,Orgeval,Yvelines,Ile de France
+400,2020-05-24,EVT_C_12,8,Orgeval,Yvelines,Ile de France
+400,2020-05-24,EVT_C_11,7,Orgeval,Yvelines,Ile de France
+400,2020-05-24,EVT_C_10,5,Orgeval,Yvelines,Ile de France
+400,2020-05-24,EVT_N_12,3,Orgeval,Yvelines,Ile de France
+400,2020-05-24,EVT_K_10,2,Orgeval,Yvelines,Ile de France
+400,2020-05-24,EVT_C_13,9,Orgeval,Yvelines,Ile de France
+100,2020-05-23,EVT_C_12,12,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-23,EVT_K_13,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-23,EVT_C_13,7,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-23,EVT_N_11,2,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-23,EVT_C_11,12,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-23,EVT_N_10,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-23,EVT_N_13,3,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-23,EVT_C_10,4,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-23,EVT_K_11,2,La Talaudiere,Loire,Auvergne Rhone Alpes
+200,2020-05-23,EVT_K_12,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-23,EVT_C_12,8,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-23,EVT_K_13,2,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-23,EVT_C_11,6,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-23,EVT_K_11,2,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-23,EVT_C_10,9,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-23,EVT_N_12,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-23,EVT_N_10,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-23,EVT_N_11,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-23,EVT_C_13,4,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-23,EVT_N_13,2,Sorbiers,Loire,Auvergne Rhone Alpes
+300,2020-05-23,EVT_C_10,5,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-23,EVT_K_12,3,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-23,EVT_K_11,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-23,EVT_N_11,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-23,EVT_C_12,5,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-23,EVT_C_11,9,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-23,EVT_C_13,11,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-23,EVT_N_13,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-23,EVT_K_10,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-23,EVT_N_12,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+400,2020-05-23,EVT_C_13,4,Orgeval,Yvelines,Ile de France
+400,2020-05-23,EVT_C_12,11,Orgeval,Yvelines,Ile de France
+400,2020-05-23,EVT_C_11,6,Orgeval,Yvelines,Ile de France
+400,2020-05-23,EVT_N_13,1,Orgeval,Yvelines,Ile de France
+400,2020-05-23,EVT_K_10,1,Orgeval,Yvelines,Ile de France
+400,2020-05-23,EVT_K_13,1,Orgeval,Yvelines,Ile de France
+400,2020-05-23,EVT_C_10,15,Orgeval,Yvelines,Ile de France
+100,2020-05-22,EVT_K_10,3,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-22,EVT_N_11,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-22,EVT_C_12,9,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-22,EVT_N_12,2,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-22,EVT_C_11,6,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-22,EVT_C_10,10,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-22,EVT_N_10,2,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-22,EVT_K_11,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-22,EVT_N_13,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-22,EVT_C_13,15,La Talaudiere,Loire,Auvergne Rhone Alpes
+200,2020-05-22,EVT_K_10,2,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-22,EVT_K_12,2,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-22,EVT_N_13,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-22,EVT_C_13,11,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-22,EVT_C_12,7,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-22,EVT_K_11,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-22,EVT_C_10,7,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-22,EVT_K_13,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-22,EVT_C_11,14,Sorbiers,Loire,Auvergne Rhone Alpes
+300,2020-05-22,EVT_C_13,11,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-22,EVT_N_11,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-22,EVT_K_11,2,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-22,EVT_K_13,3,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-22,EVT_C_11,8,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-22,EVT_N_12,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-22,EVT_C_12,8,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-22,EVT_C_10,7,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-22,EVT_K_12,2,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-22,EVT_N_13,2,Vileurbanne,Rhone,Auvergne Rhone Alpes
+400,2020-05-22,EVT_C_10,5,Orgeval,Yvelines,Ile de France
+400,2020-05-22,EVT_C_12,12,Orgeval,Yvelines,Ile de France
+400,2020-05-22,EVT_K_10,1,Orgeval,Yvelines,Ile de France
+400,2020-05-22,EVT_K_12,1,Orgeval,Yvelines,Ile de France
+400,2020-05-22,EVT_N_11,1,Orgeval,Yvelines,Ile de France
+400,2020-05-22,EVT_N_13,2,Orgeval,Yvelines,Ile de France
+400,2020-05-22,EVT_C_11,3,Orgeval,Yvelines,Ile de France
+400,2020-05-22,EVT_K_11,1,Orgeval,Yvelines,Ile de France
+400,2020-05-22,EVT_N_12,1,Orgeval,Yvelines,Ile de France
+400,2020-05-22,EVT_C_13,12,Orgeval,Yvelines,Ile de France
+100,2020-05-21,EVT_K_12,2,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-21,EVT_C_10,8,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-21,EVT_N_12,4,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-21,EVT_K_13,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-21,EVT_C_13,7,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-21,EVT_N_10,2,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-21,EVT_C_11,12,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-21,EVT_N_11,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-21,EVT_C_12,13,La Talaudiere,Loire,Auvergne Rhone Alpes
+200,2020-05-21,EVT_N_13,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-21,EVT_C_11,8,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-21,EVT_C_10,8,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-21,EVT_K_10,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-21,EVT_N_11,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-21,EVT_C_13,3,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-21,EVT_N_12,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-21,EVT_K_12,3,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-21,EVT_C_12,10,Sorbiers,Loire,Auvergne Rhone Alpes
+300,2020-05-21,EVT_N_11,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-21,EVT_C_10,3,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-21,EVT_K_12,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-21,EVT_C_11,16,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-21,EVT_K_10,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-21,EVT_C_13,9,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-21,EVT_C_12,9,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-21,EVT_K_11,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+400,2020-05-21,EVT_C_10,10,Orgeval,Yvelines,Ile de France
+400,2020-05-21,EVT_K_12,1,Orgeval,Yvelines,Ile de France
+400,2020-05-21,EVT_K_10,1,Orgeval,Yvelines,Ile de France
+400,2020-05-21,EVT_C_11,4,Orgeval,Yvelines,Ile de France
+400,2020-05-21,EVT_C_12,8,Orgeval,Yvelines,Ile de France
+400,2020-05-21,EVT_K_13,1,Orgeval,Yvelines,Ile de France
+400,2020-05-21,EVT_N_10,4,Orgeval,Yvelines,Ile de France
+400,2020-05-21,EVT_N_11,1,Orgeval,Yvelines,Ile de France
+400,2020-05-21,EVT_C_13,4,Orgeval,Yvelines,Ile de France
+100,2020-05-20,EVT_K_10,2,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-20,EVT_K_13,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-20,EVT_C_13,9,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-20,EVT_C_10,7,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-20,EVT_N_12,3,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-20,EVT_C_12,10,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-20,EVT_C_11,7,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-20,EVT_N_10,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+200,2020-05-20,EVT_N_10,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-20,EVT_C_12,4,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-20,EVT_K_10,2,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-20,EVT_K_13,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-20,EVT_N_12,2,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-20,EVT_C_11,6,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-20,EVT_C_10,10,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-20,EVT_K_11,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-20,EVT_C_13,7,Sorbiers,Loire,Auvergne Rhone Alpes
+300,2020-05-20,EVT_C_12,11,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-20,EVT_C_11,10,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-20,EVT_C_13,3,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-20,EVT_C_10,8,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-20,EVT_N_12,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-20,EVT_N_10,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-20,EVT_K_10,2,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-20,EVT_N_13,3,Vileurbanne,Rhone,Auvergne Rhone Alpes
+400,2020-05-20,EVT_K_10,1,Orgeval,Yvelines,Ile de France
+400,2020-05-20,EVT_C_13,9,Orgeval,Yvelines,Ile de France
+400,2020-05-20,EVT_C_12,10,Orgeval,Yvelines,Ile de France
+400,2020-05-20,EVT_C_10,10,Orgeval,Yvelines,Ile de France
+400,2020-05-20,EVT_C_11,11,Orgeval,Yvelines,Ile de France
+400,2020-05-20,EVT_K_13,2,Orgeval,Yvelines,Ile de France
+400,2020-05-20,EVT_K_11,3,Orgeval,Yvelines,Ile de France
+100,2020-05-19,EVT_K_12,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-19,EVT_C_13,5,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-19,EVT_C_10,6,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-19,EVT_K_13,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-19,EVT_N_10,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-19,EVT_C_12,9,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-19,EVT_C_11,6,La Talaudiere,Loire,Auvergne Rhone Alpes
+200,2020-05-19,EVT_K_13,2,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-19,EVT_K_10,2,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-19,EVT_N_10,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-19,EVT_N_12,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-19,EVT_C_12,10,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-19,EVT_C_10,7,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-19,EVT_K_11,1,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-19,EVT_C_13,7,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-19,EVT_C_11,9,Sorbiers,Loire,Auvergne Rhone Alpes
+300,2020-05-19,EVT_C_12,17,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-19,EVT_K_10,2,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-19,EVT_C_11,8,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-19,EVT_K_13,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-19,EVT_N_10,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-19,EVT_N_12,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-19,EVT_C_13,14,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-19,EVT_C_10,8,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-19,EVT_N_13,2,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-19,EVT_K_12,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+400,2020-05-19,EVT_C_10,11,Orgeval,Yvelines,Ile de France
+400,2020-05-19,EVT_C_13,12,Orgeval,Yvelines,Ile de France
+400,2020-05-19,EVT_N_12,1,Orgeval,Yvelines,Ile de France
+400,2020-05-19,EVT_N_11,1,Orgeval,Yvelines,Ile de France
+400,2020-05-19,EVT_N_10,2,Orgeval,Yvelines,Ile de France
+400,2020-05-19,EVT_K_12,2,Orgeval,Yvelines,Ile de France
+400,2020-05-19,EVT_K_11,1,Orgeval,Yvelines,Ile de France
+400,2020-05-19,EVT_C_12,7,Orgeval,Yvelines,Ile de France
+400,2020-05-19,EVT_C_11,9,Orgeval,Yvelines,Ile de France
+400,2020-05-19,EVT_K_13,1,Orgeval,Yvelines,Ile de France
+100,2020-05-18,EVT_N_10,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-18,EVT_N_11,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-18,EVT_K_12,2,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-18,EVT_N_12,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-18,EVT_N_13,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-18,EVT_C_11,5,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-18,EVT_C_10,15,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-18,EVT_C_12,9,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-18,EVT_K_11,1,La Talaudiere,Loire,Auvergne Rhone Alpes
+100,2020-05-18,EVT_C_13,14,La Talaudiere,Loire,Auvergne Rhone Alpes
+200,2020-05-18,EVT_C_11,16,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-18,EVT_C_12,9,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-18,EVT_C_13,10,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-18,EVT_K_13,2,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-18,EVT_C_10,11,Sorbiers,Loire,Auvergne Rhone Alpes
+200,2020-05-18,EVT_K_11,1,Sorbiers,Loire,Auvergne Rhone Alpes
+300,2020-05-18,EVT_N_11,2,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-18,EVT_N_12,2,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-18,EVT_K_11,2,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-18,EVT_C_13,7,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-18,EVT_C_11,13,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-18,EVT_N_10,2,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-18,EVT_K_10,2,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-18,EVT_N_13,2,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-18,EVT_K_13,1,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-18,EVT_C_12,11,Vileurbanne,Rhone,Auvergne Rhone Alpes
+300,2020-05-18,EVT_C_10,11,Vileurbanne,Rhone,Auvergne Rhone Alpes
+400,2020-05-18,EVT_C_12,10,Orgeval,Yvelines,Ile de France
+400,2020-05-18,EVT_N_11,2,Orgeval,Yvelines,Ile de France
+400,2020-05-18,EVT_C_13,12,Orgeval,Yvelines,Ile de France
+400,2020-05-18,EVT_K_10,2,Orgeval,Yvelines,Ile de France
+400,2020-05-18,EVT_C_11,14,Orgeval,Yvelines,Ile de France
+400,2020-05-18,EVT_C_10,8,Orgeval,Yvelines,Ile de France
