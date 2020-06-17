@@ -55,7 +55,7 @@ public class SparkSqlPrototype {
 		// ---- Formatage sous forme de table
 		// Première étape récupération des indicateurs quotidiens par concentrateur par jour
 		
-		Dataset <Row> aggregateByPdk = spark.sql("select pdk,date_occur_evt_formatted,type_evt,count(*) as nb_event,first(libelle_commune) as Commune,first(libelle_departement) as Departement,first(libelle_region) as Region from joined as j group by j.pdk, j.date_occur_evt_formatted,j.type_evt order by j.pdk");
+		Dataset <Row> aggregateByPdk = spark.sql("select pdk,date_occur_evt_formatted as date_indicator,type_evt,count(*) as nb_event,first(libelle_commune) as Commune,first(libelle_departement) as Departement,first(libelle_region) as Region from joined as j group by j.pdk, j.date_occur_evt_formatted,j.type_evt order by j.pdk");
 		Dataset <Row> aggregateByPdkTemp = aggregateByPdk;
 		// Ici pour un jour donné on va  générer un nombre de lignes égal au nombre de pdk * le nombre de type d'évènements. On a 8000 pdk et un nombre indéterminé
 		// de type d'évènement. On a quand même un ordre de grandeur inférieure au millionr.
@@ -69,7 +69,7 @@ public class SparkSqlPrototype {
 			dfevent = spark.sql("select * from eventData where date_occur_evt_formatted = '"+dateDay+"'");
 			joined = dfevent.join(dfref, dfref.col("id_compteur").equalTo(dfevent.col("id_equipement")));
 			joined.createOrReplaceTempView("joined");
-			aggregateByPdkTemp = spark.sql("select pdk,date_occur_evt_formatted,type_evt,count(*) as nb_event,first(libelle_commune) as Commune,first(libelle_departement) as Departement,first(libelle_region) as Region from joined as j group by j.pdk, j.date_occur_evt_formatted,j.type_evt order by j.pdk");
+			aggregateByPdkTemp = spark.sql("select pdk,date_occur_evt_formatted as date_indicator,type_evt,count(*) as nb_event,first(libelle_commune) as Commune,first(libelle_departement) as Departement,first(libelle_region) as Region from joined as j group by j.pdk, j.date_occur_evt_formatted,j.type_evt order by j.pdk");
 			aggregateByPdk = aggregateByPdk.union(aggregateByPdkTemp);
 		}
 		

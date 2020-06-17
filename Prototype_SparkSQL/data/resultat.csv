@@ -1,4 +1,4 @@
-pdk,date_occur_evt_formatted,type_evt,nb_event,Commune,Departement,Region
+pdk,date_indicator,type_evt,nb_event,Commune,Departement,Region
 100,2020-06-17,EVT_C_13,12,La Talaudiere,Loire,Auvergne Rhone Alpes
 100,2020-06-17,EVT_K_12,2,La Talaudiere,Loire,Auvergne Rhone Alpes
 100,2020-06-17,EVT_N_13,1,La Talaudiere,Loire,Auvergne Rhone Alpes
