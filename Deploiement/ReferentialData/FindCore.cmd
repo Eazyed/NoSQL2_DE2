@@ -1,0 +1,1 @@
+dcli -C 'cat `find /var/ -name yarn-site.xml|grep NODEMAN | sort -k1 -n|head -1`|grep -A 1 "yarn.nodemanager.resource.cpu-vcores"|grep -v name'|awk -F'</?value>' 'NF>1{print $2}' | awk '{a=a+$1} END {print a}'
