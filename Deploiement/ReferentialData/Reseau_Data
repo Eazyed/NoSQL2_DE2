@@ -1,0 +1,49 @@
+sqoop import -D mapred.job.name='pdc with 50 mappers' --direct --connect
+jdbc:oracle:thin:@'(DESCRIPTION=(LOAD_BALANCE=YES)(ADDRESS=(PROTOCOL=TCP)(HOST=exadatanode01)(PORT=1521))
+(ADDRESS=(PROTOCOL=TCP)(HOST=exadatanode02)(PORT=1521))
+(CONNECT_DATA=(SERVICE_NAME=orcl.my.company)))' 
+--username NoSQL --password NoSQL --table pdc --as-textfile --delete-target-dir 
+--target-dir /tmp/NoSQL 
+-m 50
+
+
+
+
+
+sqoop import -D mapred.job.name='pdk with 50 mappers' --direct --connect
+jdbc:oracle:thin:@'(DESCRIPTION=(LOAD_BALANCE=YES)(ADDRESS=(PROTOCOL=TCP)(HOST=exadatanode01)(PORT=1521))
+(ADDRESS=(PROTOCOL=TCP)(HOST=exadatanode02)(PORT=1521))
+(CONNECT_DATA=(SERVICE_NAME=orcl.my.company)))' 
+--username NoSQL --password NoSQL --table pdk --as-textfile 
+--target-dir /tmp/NoSQL 
+-m 50
+
+
+
+sqoop import -D mapred.job.name='commune with 50 mappers' --direct --connect
+jdbc:oracle:thin:@'(DESCRIPTION=(LOAD_BALANCE=YES)(ADDRESS=(PROTOCOL=TCP)(HOST=exadatanode01)(PORT=1521))
+(ADDRESS=(PROTOCOL=TCP)(HOST=exadatanode02)(PORT=1521))
+(CONNECT_DATA=(SERVICE_NAME=orcl.my.company)))' 
+--username NoSQL --password NoSQL --table commune --as-textfile
+--target-dir /tmp/NoSQL 
+-m 50
+
+
+
+sqoop import -D mapred.job.name='departement with 50 mappers' --direct --connect
+jdbc:oracle:thin:@'(DESCRIPTION=(LOAD_BALANCE=YES)(ADDRESS=(PROTOCOL=TCP)(HOST=exadatanode01)(PORT=1521))
+(ADDRESS=(PROTOCOL=TCP)(HOST=exadatanode02)(PORT=1521))
+(CONNECT_DATA=(SERVICE_NAME=orcl.my.company)))' 
+--username NoSQL --password NoSQL --table departement --as-textfile
+--target-dir /tmp/NoSQL 
+-m 50
+
+
+
+sqoop import -D mapred.job.name='region with 50 mappers' --direct --connect
+jdbc:oracle:thin:@'(DESCRIPTION=(LOAD_BALANCE=YES)(ADDRESS=(PROTOCOL=TCP)(HOST=exadatanode01)(PORT=1521))
+(ADDRESS=(PROTOCOL=TCP)(HOST=exadatanode02)(PORT=1521))
+(CONNECT_DATA=(SERVICE_NAME=orcl.my.company)))' 
+--username NoSQL --password NoSQL --table region --as-textfile
+--target-dir /tmp/NoSQL 
+-m 50
